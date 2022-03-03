@@ -352,6 +352,13 @@ Canada’s best destination for donating and fundraising online. Free all-in-one
 [The Chabad Center](https://www.mishpachaorphanage.org/templates/fundraising/default_cdo/aid/5405630/jewish/Campaign.htm/utm_source/70FM/utm_medium/eblast/utm_campaign/donate) 
 “The Jewish community in Ukraine is in need of your assistance during these dire times. As the threat of war intensifies, Mishpacha Chabad Odessa is preparing to support the hundreds of Jews who are unable to evacuate the country including orphans, students, and Holocaust survivors. Preparations are also underway to absorb Jewish refugees from the surrounding regions of Kharkiv, Kiev, and Dnieper. $500,000 in donations are urgently needed to purchase medical gear, protective equipment, and basic necessities such as clothes and sleeping bags. Money is also needed to help stock emergency shelters with several tons of cereal, buckwheat, sugar, rice, flour and other non-perishable staples. These donations will also help defray the costs of additional security personnel arriving from Israel to help protect the Jewish community.”
 
+### UN World Food Program
+[UN World Food Program](https://secure.wfpusa.org/donate/ukraineconflict-gsbt?ms=GS_B_EMR_SL_Ukraine&gclid=CjwKCAiAyPyQBhB6EiwAFUuakn1xZCSt0rdtZ7TJKQwZzmO_VeKnHqKs8R9BuPI5FqE1p0INbyxZBxoCCM0QAvD_BwE)
+"The devastating eruption of war in Ukraine is driving hundreds of thousands of families from their homes and into hunger. Survivors have lost everything and urgently need our help."
+
+"The United Nations World Food Programme is on the ground right now providing critical food assistance for people fleeing the conflict. With your help, we can deliver food directly to Ukrainian people in dire need."
+
+
 # For the Elderly
 ### Happy Old
 [Happy Old](https://happyold.com.ua): This charity provides older people across Ukraine with groceries and medicine, holds educational, entertainment, and sports events, as well as helps with employment. They even created a modeling agency for the elderly.
